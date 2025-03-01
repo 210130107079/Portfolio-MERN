@@ -59,12 +59,12 @@ const Project = () => {
 
         {/* PROJECT-5 */}
         <div className='w-[400px] p-5 h-[500px] bg-[#2e3038] rounded-xl hover:scale-110 hover:shadow-2xl hover:shadow-[#454754]'>
-          <img className='scale-95 rounded-lg bg-white' src={assets.WeatherApp} alt="" />
-          <h3 className='mt-4 bg-[#FFEB00] text-[#1b1c21] rounded-md px-2 py-1 w-[220px]'>TITLE : Fake App</h3> 
+          <img className='scale-95 rounded-lg bg-white' src={assets.BedApp} alt="" />
+          <h3 className='mt-4 bg-[#FFEB00] text-[#1b1c21] rounded-md px-2 py-1 w-[220px]'>TITLE : Bed App</h3> 
           <h4 className='mt-3 text-md text-[#FFEB00] font-semibold bg-[#2e3038]' >Summary </h4>
-          <p className='mt-2 text-white bg-[#2e3038]'>This MERN-based Workout Buddy app helps users log exercises with weight and reps, 
-            displaying them dynamically. Users can add and delete workouts, making fitness 
-            tracking seamless and efficient with a user-friendly interface.</p>
+          <p className='mt-2 text-white bg-[#2e3038]'>A MERN-based hospital management app streamlines bed 
+            allocation by displaying available beds in real-time. It allows staff to assign patients to specific 
+            rooms and beds, ensuring efficient hospital management.</p>
         </div>
 
         {/* PROJECT-6 */}

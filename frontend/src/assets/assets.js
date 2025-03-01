@@ -23,6 +23,7 @@ import WorkoutProject from './worky.png'
 import EcommerceProject from './commercy.png'
 import BookifyProject from './booky.png'
 import WeatherApp from './weathery.png'
+import BedApp from './bed.png'
 
 export const assets = {
     Whatsapp,
@@ -49,5 +50,6 @@ export const assets = {
     WorkoutProject,
     EcommerceProject,
     BookifyProject,
-    WeatherApp
+    WeatherApp,
+    BedApp
 }

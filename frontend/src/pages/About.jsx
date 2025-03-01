@@ -20,7 +20,7 @@ const educationData = [
     duration: "Mar 2020 - Mar 2021",
     grade: "89.73%",
     description: "Achieved an outstanding 89% in HSC examinations from Parth School of Science and Competition in Vadodara. Demonstrated consistent academic excellence and a strong grasp of core subjects",
-    logo: "https://scontent.famd15-2.fna.fbcdn.net/v/t39.30808-6/302343819_460845892725427_7104845145471700312_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ns4obnSuz0UQ7kNvgH2KMwl&_nc_oc=AdiOpFTvk63OCq7nneO6KGYoz14Jbo0PqdXm7LsUK_4-vCVCoGXanI23mqpj0RgWkMwg4VEfzt-NarMbPtpQNBLO&_nc_zt=23&_nc_ht=scontent.famd15-2.fna&_nc_gid=AXaboeMeArv-iiTRggaMd8Z&oh=00_AYCV9pbrATfrIgn-KeQxsvIe_xh5ESAYpFit-JFFt8nWMw&oe=67C10069",
+    logo: "https://th.bing.com/th/id/OIP.QprsBMAIbBqXQpk0nX6rxQHaHa?rs=1&pid=ImgDetMain",
     position: "right",
   },
   {
@@ -30,7 +30,7 @@ const educationData = [
     duration: "Sept 2021 - Present...",
     grade: "7.67 CGPA",
     description: "Currently maintaining a 7.83 CGPA in my BE program at GEC Gandhinagar. Committed to furthering my education and honing my technical skills",
-    logo: "https://gecg28.ac.in/Gandhinagar_files/img/GECG_logo.png",
+    logo: "https://gecg28.ac.in/img/GECG_logo.png",
     position: "left",
   },
 ];
@@ -42,7 +42,7 @@ const internshipData = [
     degree: "Android Development",
     duration: "Mar 2024 - Apr 2024",
     description: "Completed a 1-month Android Development internship at CodSoft, gaining experience in building and debugging Android apps",
-    logo: "https://scontent.famd15-1.fna.fbcdn.net/v/t39.30808-6/358136597_117822154699953_3641829578259871145_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Urrg75AhefEQ7kNvgFgdskA&_nc_oc=AdhAJCfNZZKngPa8f9CtfNyk6qLHVhnpC_kKV7YPE3VC0DVtldbqwwPXBJwt-ohqj-c&_nc_zt=23&_nc_ht=scontent.famd15-1.fna&_nc_gid=AGPgCwFfLYxqidUTeJORXQm&oh=00_AYA0cz6tnPgWl5P3-_9zaXnAkguvJCcTrUZh7G9R8eINVg&oe=67C0E4EF",
+    logo: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/Aq20eV79zLfpXV6b/1685789339697-YrDL60zzRBfzM6Wr.jpg",
     position: "right",
   },
   {
@@ -60,7 +60,7 @@ const internshipData = [
     degree: "Full Stack (MERN)",
     duration: "Jan 2025 - Present...",
     description: "My ongoing MERN Stack internship at Web-brain Technologies, Vadodara, has been a journey of hands-on learning, skill development, and professional growth. I am gaining expertise in MongoDB, Express.js, React, and Node.js while working on real-world projects, enhancing my problem-solving abilities, and collaborating with a dynamic development team.",
-    logo: "https://scontent.famd15-2.fna.fbcdn.net/v/t39.30808-6/304994274_576363527614404_2635560141303497959_n.png?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=zQeRBOy3dSQQ7kNvgHZuTBC&_nc_oc=AdgODhpifILzbUXCEHgML8JeMV8hBgyymksgLsCxbuBbDmK37pnFsLYXyOR2P1N0P3k&_nc_zt=23&_nc_ht=scontent.famd15-2.fna&_nc_gid=Ax2ZG0Fw7agSN5xsHLLxY0b&oh=00_AYAVYpoxqgnqnvfFDfNg0IvBxbRSSsb4w_548ddzJrUq4Q&oe=67C111D4",
+    logo: "https://www.webbrainstechnologies.com/wp-content/uploads/2022/03/weblogo-e1629894882198.png",
     position: "right",
   },
 ];
