@@ -24,6 +24,9 @@ import EcommerceProject from './commercy.png'
 import BookifyProject from './booky.png'
 import WeatherApp from './weathery.png'
 import BedApp from './bed.png'
+import AuthProject from './authy.png'
+import Porsche from './porsche.png'
+import HospitalProject from './hospitally.png'
 
 export const assets = {
     Whatsapp,
@@ -51,5 +54,8 @@ export const assets = {
     EcommerceProject,
     BookifyProject,
     WeatherApp,
-    BedApp
+    BedApp,
+    AuthProject,
+    Porsche,
+    HospitalProject
 }

@@ -77,6 +77,38 @@ const Project = () => {
             and daily forecasts, and location-based weather updates.</p>
         </div>
       </div>
+      
+      <div className='flex mt-10 pt-10 justify-between mb-[100px]'>
+        {/* PROJECT-4 */}
+        <div className='w-[400px] p-5 h-[500px] bg-[#2e3038] rounded-xl hover:scale-110 hover:shadow-2xl hover:shadow-[#454754]'>
+          <img className='scale-95 rounded-lg bg-white' src={assets.AuthProject} alt="" />
+          <h3 className='mt-4 bg-[#FFEB00] text-[#1b1c21] rounded-md px-2 py-1 w-[220px]'>TITLE : Email Auth</h3> 
+          <h4 className='mt-3 text-md text-[#FFEB00] font-semibold bg-[#2e3038]' >Summary </h4>
+          <p className='mt-2 text-white bg-[#2e3038]'>The MERN Email Authentication project implements user registration, login, and 
+            authentication using JWT, bcrypt, and MongoDB. It includes secure password hashing, token-based authentication, and protected 
+            routes for user access control.</p>
+        </div>
+
+        {/* PROJECT-5 */}
+        <div className='w-[400px] p-5 h-[500px] bg-[#2e3038] rounded-xl hover:scale-110 hover:shadow-2xl hover:shadow-[#454754]'>
+          <img className='scale-95 rounded-lg bg-white' src={assets.Porsche} alt="" />
+          <h3 className='mt-4 bg-[#FFEB00] text-[#1b1c21] rounded-md px-2 py-1 w-[220px]'>TITLE : Porsche FM</h3> 
+          <h4 className='mt-3 text-md text-[#FFEB00] font-semibold bg-[#2e3038]' >Summary </h4>
+          <p className='mt-2 text-white bg-[#2e3038]'>The Porsche web app, built with Framer Motion, delivers a dynamic user experience 
+            with smooth animations, interactive car showcases, and seamless transitions, enhancing engagement and visual appeal for an immersive 
+            browsing experience.</p>
+        </div>
+
+        {/* PROJECT-6 */}
+        <div className='w-[400px] p-5 h-[500px] bg-[#2e3038] rounded-xl hover:scale-110 hover:shadow-2xl hover:shadow-[#454754]'>
+          <img className='scale-95 rounded-lg bg-white' src={assets.HospitalProject} alt="" />
+          <h3 className='mt-4 bg-[#FFEB00] text-[#1b1c21] rounded-md px-2 py-1 w-[220px]'>TITLE : Medicare</h3>
+          <h4 className='mt-3 text-md text-[#FFEB00] font-semibold bg-[#2e3038]' >Summary </h4>
+          <p className='mt-2 text-white bg-[#2e3038]'>The MERN Hospital Management System manages patient admissions, bed allocations, 
+            and records. It ensures efficient room management, tracks patient details, and updates availability dynamically for streamlined 
+            hospital operations.</p>
+        </div>
+      </div>
     </div>
   )
 }
